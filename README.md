@@ -4,7 +4,7 @@ Developer fueled by espresso, based in Palermo, Sicily, Italy.
 
 ---
 
-- Currently working at [**MagicMotorSport S.R.L. Unipersonale**](https://www.magicmotorsport.com/) as a Software Engineer
+- Currently working at [**MAGIC ENGINEERING S.R.L.**](https://www.magicmotorsport.com/) as a Software Engineer
 - Always exploring modern C++ (C++ 17/20/23), compilers, and systems-level programming
 
 
